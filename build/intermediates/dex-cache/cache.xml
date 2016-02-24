@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ddf5f4817565c9db82613c16093f76640a54e15">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-8ddd402564cf3256b1a3ad0ea9eae81a71161cb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c67237ac8e15f9942ab885181ed70a653980cfee.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-c01f1edf7fca5299e0aced5983dca364df486173.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-82464e53d39aef85fdb95030dbf090740ef2b6b2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-920f2bf8671c48b98fae1ca3e16739fe2bd399db.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-658b21836ecbd24db7c81415aa27a31bc31c5737.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-4e623e2c3420a20e3ead4d073863a6d67b7ddfe1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f4d7a07120e76988f3a15403838d323c2400db83">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-3b2190f1259b2eb4a718293b8a6af48acabf5230.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-8d3ced8b82cd696df202f81c2c717f417e6cd5ac.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-453e6f7abbd2bca38265532d2138fe50f2098510.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-b46978a98ca1ca15d5169a73bb8a896a4b431936.jar" />
+    </item>
+    <item
+        jar="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Kuliza-193\Desktop\NanoDegree\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-d453f39183772baaa0ca850a88f26f70eeade02b.jar" />
+    </item>
+
+</items>
